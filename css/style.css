@@ -139,6 +139,7 @@ footer .attribution a:hover {
     flex-direction: column;
   }
   .card {
+    margin-top: 1.5rem;
     flex-direction: column-reverse;
     padding-left: 0;
   }
